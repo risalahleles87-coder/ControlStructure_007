@@ -7,3 +7,4 @@ for i in range(n):
     print(a, end=" ")
     a = a + b
     b = a - b
+    
