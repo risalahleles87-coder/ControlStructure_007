@@ -9,3 +9,4 @@ elif nilai >=60:
     print("Average performance")
 else:
     print("Poor performance")
+
